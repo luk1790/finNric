@@ -1,4 +1,4 @@
 # FIN / NRIC Number generator
 
 URL: 
-[Link](https://jsfiddle.net/luk17/zh6mbxv1/)
+[Link](https://luk1790.github.io/finNric/)
