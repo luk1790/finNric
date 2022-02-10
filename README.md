@@ -1,4 +1,10 @@
-# FIN / NRIC Number generator
+# Singapore FIN / NRIC number generator
 
-URL: 
+App page: 
 [Link](https://luk1790.github.io/finNric/)
+
+
+Technologies used: 
+- JavaScript
+- HTML
+- Miligram
